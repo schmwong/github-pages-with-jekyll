@@ -19,7 +19,7 @@
         <ol>
           <li>What is GitHub? (
             <a href="https://youtu.be/w3jLJU7DT5E">
-              Introductory YouTube Video
+              YouTube Video
             </a>
             )
           </li>
@@ -106,7 +106,7 @@
         <ol>
           <li>Discover GitHub Pages (
             <a href="https://youtu.be/2MsN8gpT6jY">
-              Introductory YouTube Video
+              YouTube Video
             </a>
             )
           </li>
@@ -144,6 +144,3 @@
             </li>
           </ul>
         </td>
-      </tr>
-    </tbody>
-   </table>
