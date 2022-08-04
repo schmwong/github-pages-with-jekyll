@@ -144,6 +144,6 @@
             </li>
           </ul>
         </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+   </table>
